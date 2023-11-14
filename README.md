@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @nsikakjr
-- 👀 I’m interested in ...machine learning
-- 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...machine learning projects
-- 📫 How to reach me ...linkedIn
+- 👀 product ngr and project mgr
 
 <!---
 nsikakjr/nsikakjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
